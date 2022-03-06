@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+[Rimi](https://rimichen.github.io/RimiWeb/assets/rimismall.jpg)
 
-You can use the [editor on GitHub](https://github.com/RimiChen/Final-Oral-Exam/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Title: A Computational Model of Visual Narrative Comprehension
+> - **Research Theme:** we propose a computational model for the analysis of multi-modal narratives based on two datasets of western comics (Comics from Iyyer et al. 2017) and Japanese manga(Manga109 from 2017).
+>
+> - **Findings:** 
+> <ol>
+> <li>A Computational Model of Comprehension in Manga Style Visual Narratives--Study Features That Influences Understanding.</li>
+> <li>Panel Transitions for Genre Analysis in Visual Narratives--Inter-panel Relations and Content.</li>
+> <li>Style Transfer for Multi-Modal Narratives--Visual Representations and Intra-panel Relations.</li>
+> <li>Extendable Comic Generator--Applying Comic Theories to Comics Generation.</li>
+> </ol>
+> - **Proposed Work:**
+>Our target comprehension model will be developed based on Scene Perception & Event Comprehension theory (SPECT) since it formalized the cognitive process about visual narrative comprehension. We are going to adjust the SPECT by combining the scene semantic representations of comic panels and a modified hierarchical LSTM.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Committee
+> - **Chair:** Dr. Arnav Jhala
+> - **Member 1:** Dr. Benjamin Watson
+> - **Member 2:** Dr. Noboru Matsuda
+> - **Member 3:** Dr. Tianfu Wu
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Document
+> - [version 1 (Aug 17, 2021)](https://rimichen.github.io/Oral-Website/prelim/Prelim_proposal_v2.pdf) -- started from the oral prelim version.
+>
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RimiChen/Final-Oral-Exam/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Slide
+>
+> - [version 1 (Aug 25, 2021)](https://rimichen.github.io/Oral-Website/prelim/Rimi_Prelim_Presentation_v3.pdf) -- started from the oral prelim proposal. 
